@@ -1,0 +1,8 @@
+Scenario.name = test_sparse
+Group.router = AdaptiveHybridRouter
+Group.nrofHosts = 15
+Events1.hosts = 0,51
+Report.nrofReports = 2
+Report.reportDir = reports/
+Report.report1 = MessageStatsReport
+Report.report2 = DeliveryCostReport

@@ -1,0 +1,9 @@
+Scenario.name = ProphetV2Router
+Group.router = ProphetV2Router
+Report.nrofReports = 4
+Report.reportDir = reports/
+Report.report1 = MessageStatsReport
+Report.report2 = ContactTimesReport
+Report.report3 = DeliveredMessagesReport
+Report.report4 = MessageDelayReport
+ProphetV2Router.secondsInTimeUnit = 30

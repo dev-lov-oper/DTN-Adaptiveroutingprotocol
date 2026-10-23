@@ -1,0 +1,11 @@
+Scenario.name = Dense_MaxPropRouter
+Group.router = MaxPropRouter
+Group.nrofHosts = 80
+Events1.hosts = 0,246
+Report.nrofReports = 4
+Report.reportDir = reports/
+Report.report1 = MessageStatsReport
+Report.report2 = ContactTimesReport
+Report.report3 = DeliveredMessagesReport
+Report.report4 = DeliveryCostReport
+

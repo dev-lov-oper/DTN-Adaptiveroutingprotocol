@@ -1,0 +1,9 @@
+Scenario.name = LifeRouter
+Group.router = LifeRouter
+Report.nrofReports = 4
+Report.reportDir = reports/
+Report.report1 = MessageStatsReport
+Report.report2 = ContactTimesReport
+Report.report3 = DeliveredMessagesReport
+Report.report4 = MessageDelayReport
+Group.nmcount = 1, 3

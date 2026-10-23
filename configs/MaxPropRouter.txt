@@ -1,0 +1,10 @@
+Scenario.name = MaxPropRouter
+Group.router = MaxPropRouter
+Report.nrofReports = 5
+Report.reportDir = reports/
+Report.report1 = MessageStatsReport
+Report.report2 = ContactTimesReport
+Report.report3 = DeliveredMessagesReport
+Report.report4 = MessageDelayReport
+Report.report5 = DeliveryCostReport
+

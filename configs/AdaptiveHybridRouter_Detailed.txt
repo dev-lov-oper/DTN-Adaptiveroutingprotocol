@@ -1,0 +1,14 @@
+Scenario.name = AdaptiveHybridRouter
+Group.router = AdaptiveHybridRouter
+Report.nrofReports = 9
+Report.reportDir = reports/
+Report.report1 = MessageStatsReport
+Report.report2 = ContactTimesReport
+Report.report3 = DeliveredMessagesReport
+Report.report4 = MessageDelayReport
+Report.report5 = MessageDeliveryReport
+Report.report6 = BufferOccupancyReport
+Report.report7 = TotalContactTimeReport
+Report.report8 = CreatedMessagesReport
+Report.report9 = DeliveryCostReport
+Scenario.endTime = 43200

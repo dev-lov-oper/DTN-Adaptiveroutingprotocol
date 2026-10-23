@@ -1,0 +1,11 @@
+Scenario.name = Sparse_ProphetRouter
+Group.router = ProphetRouter
+Group.nrofHosts = 15
+Events1.hosts = 0,51
+Report.nrofReports = 4
+Report.reportDir = reports/
+Report.report1 = MessageStatsReport
+Report.report2 = ContactTimesReport
+Report.report3 = DeliveredMessagesReport
+Report.report4 = DeliveryCostReport
+ProphetRouter.secondsInTimeUnit = 30

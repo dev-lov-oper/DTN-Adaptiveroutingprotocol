@@ -1,0 +1,10 @@
+Scenario.name = WaveRouter
+Group.router = WaveRouter
+Report.nrofReports = 4
+Report.reportDir = reports/
+Report.report1 = MessageStatsReport
+Report.report2 = ContactTimesReport
+Report.report3 = DeliveredMessagesReport
+Report.report4 = MessageDelayReport
+Group.immunityTime = 60
+Group.custodyFraction = 0.5

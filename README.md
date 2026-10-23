@@ -356,7 +356,3 @@ Configured under the `DeliveryCostReport.` namespace:
 
 ---
 
-## 8. License & Acknowledgments
-
-- **AdaptiveHybridRouter & DeliveryCostReport**: Developed by the project contributors, licensed under the **GNU General Public License v3.0** ([LICENSE.txt](LICENSE.txt)).
-- **The ONE Simulator**: Originally created by Ari Keränen, Teemu Kärkkäinen, and Jörg Ott at Aalto University.
